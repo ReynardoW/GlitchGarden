@@ -1,0 +1,1017 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 18363.1500; Version 1909; 64bit' Language: 'en' Physical Memory: 16299 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/Projects/GlitchGarden/GlitchGarden
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50930
+Successfully changed project path to: D:/Unity/Projects/GlitchGarden/GlitchGarden
+D:/Unity/Projects/GlitchGarden/GlitchGarden
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/Projects/GlitchGarden/GlitchGarden/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.14501.18003
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56908
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000732 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.685 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000543 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.692 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.1 MB.
+System memory in use after: 84.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2233.
+Total: 1.567600 ms (FindLiveObjects: 0.132300 ms CreateObjectMapping: 0.063500 ms MarkObjects: 1.276700 ms  DeleteObjects: 0.094400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.031661 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.033629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010285 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000340 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013021 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000341 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010485 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000349 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010477 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000339 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010667 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000336 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012315 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000327 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011319 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000336 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012164 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000332 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013545 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000350 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010712 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000326 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010597 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000335 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010583 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000332 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013522 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000334 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011979 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000332 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011797 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000331 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014476 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000365 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011294 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000336 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011133 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000332 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010551 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000342 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013366 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000342 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011584 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000342 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011938 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000339 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012562 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000345 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010156 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000335 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012139 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000336 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012144 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000341 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014438 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000358 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012168 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000339 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011682 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000344 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010656 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000338 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012725 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000331 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011489 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000342 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011520 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000342 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011557 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000345 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013251 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000344 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011714 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000348 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008734 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000354 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008777 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000380 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010472 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000349 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009718 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000339 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009209 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000343 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008569 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000343 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010088 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000338 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008833 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000336 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008726 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000341 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011057 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000341 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009072 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000345 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010525 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000349 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010495 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000333 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011256 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000339 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009062 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000337 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008858 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000343 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012053 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000334 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014579 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000340 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008927 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000342 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012384 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000343 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008631 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000344 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015992 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000332 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014104 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000339 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011666 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000328 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011698 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000331 seconds
+  ERROR: Build asset version error: assets/scenes/samplescene.unity in SourceAssetDB has modification time of '2020-08-24T05:38:40Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.002313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.101527 seconds.
+  path: Assets/Scenes/Splash Screen.unity
+  artifactKey: Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Splash Screen.unity using Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e65221b6d12a06b1657120dc5796c2') in 0.005622 seconds
+  Import took 0.010117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.891575 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(dadb82694fa38894495ae8c11897ecc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(dadb82694fa38894495ae8c11897ecc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a52ca96ae175c24f4b9ccd87d47888b') in 0.005440 seconds
+  Import took 0.009990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.794870 seconds.
+  path: Assets/Images
+  artifactKey: Guid(5ccc399e4037832428593ce7018d02db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images using Guid(5ccc399e4037832428593ce7018d02db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e837d714a2130bd4b571760029db9f') in 0.005497 seconds
+  Import took 0.008071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.511722 seconds.
+  path: Assets/Images/glitch-homepage-1920x1080.jpeg
+  artifactKey: Guid(6603458e936f284439c8d1e703cd489b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/glitch-homepage-1920x1080.jpeg using Guid(6603458e936f284439c8d1e703cd489b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3539c3d68662af24f843958c9198a9ec') in 0.091880 seconds
+  Import took 0.094687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Images/Glitch_Yoga_Frog_1920x1080_2.jpg
+  artifactKey: Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Glitch_Yoga_Frog_1920x1080_2.jpg using Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e89a96a43ee28fdfc16a174af90795e8') in 0.011823 seconds
+  Import took 0.013847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.499212 seconds.
+  path: Assets/Images/Splash Image.jpeg
+  artifactKey: Guid(6603458e936f284439c8d1e703cd489b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Splash Image.jpeg using Guid(6603458e936f284439c8d1e703cd489b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a9f228497eedc4c21335e84f156550') in 0.011081 seconds
+  Import took 0.014011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.018594 seconds.
+  path: Assets/Images/Start Screen.jpg
+  artifactKey: Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Start Screen.jpg using Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe5bd353b105f2528c233353800d28c') in 0.014888 seconds
+  Import took 0.018637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Images/Start Screen.jpg
+  artifactKey: Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Start Screen.jpg using Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe5bd353b105f2528c233353800d28c') in 0.012283 seconds
+  Import took 0.014509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.743789 seconds.
+  path: Assets/Images/Start Screen Image.jpg
+  artifactKey: Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Start Screen Image.jpg using Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc07d32dc0358f257ae1f6d172f69e22') in 0.010579 seconds
+  Import took 0.013091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003124 seconds.
+  path: Assets/Images/Start Screen Image.jpg
+  artifactKey: Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Start Screen Image.jpg using Guid(33973e0f67926234dbe67fc5a67d18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc07d32dc0358f257ae1f6d172f69e22') in 0.011854 seconds
+  Import took 0.014132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 401.235035 seconds.
+  path: Assets/Fonts
+  artifactKey: Guid(7d910bf5804decd4aac670ac954e573d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts using Guid(7d910bf5804decd4aac670ac954e573d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34dc32113cecfa09f438e55634bf8d2b') in 0.006134 seconds
+  Import took 0.008845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.948564 seconds.
+  path: Assets/Fonts/leaves_and_ground.ttf
+  artifactKey: Guid(2d13fdc7a490cb242a7ceead9245796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/leaves_and_ground.ttf using Guid(2d13fdc7a490cb242a7ceead9245796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52d9ddcbe2c2523f839b791ec841537') in 0.045638 seconds
+  Import took 0.047943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.234415 seconds.
+  path: Assets/Sounds
+  artifactKey: Guid(c255ee98328dc7c419be2ab9de3da2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds using Guid(c255ee98328dc7c419be2ab9de3da2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8377d8bf2f80ebf3891f4ff2d586e0a') in 0.005488 seconds
+  Import took 0.007868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.787503 seconds.
+  path: Assets/Sounds/game_loaded_2.mp3
+  artifactKey: Guid(07a7ae49c508ac048a43b072c937c723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/game_loaded_2.mp3 using Guid(07a7ae49c508ac048a43b072c937c723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7c1944a36d33eeffbf7358644b64a8') in 0.023974 seconds
+  Import took 0.026798 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.673 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 1.666500 ms (FindLiveObjects: 0.136800 ms CreateObjectMapping: 0.058700 ms MarkObjects: 1.392400 ms  DeleteObjects: 0.077800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.017915 seconds.
+  path: Assets/Scenes/Splash Screen.unity
+  artifactKey: Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Splash Screen.unity using Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e40692aadb24bcc940f672ff308a6e66') in 0.007972 seconds
+  Import took 0.012498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Scenes/Splash Screen.unity
+  artifactKey: Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Splash Screen.unity using Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e40692aadb24bcc940f672ff308a6e66') in 0.001279 seconds
+  Import took 0.003540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.407227 seconds.
+  path: Assets/Scenes/Splash Screen 1.unity
+  artifactKey: Guid(9679343f2559102448eaa011c47059de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Splash Screen 1.unity using Guid(9679343f2559102448eaa011c47059de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c5310fb6687b717131f42ab61b56720') in 0.005706 seconds
+  Import took 0.008411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.292366 seconds.
+  path: Assets/Scenes/Start Screen.unity
+  artifactKey: Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start Screen.unity using Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a88ce555ae2d9b9c9609355c7a3626c') in 0.005585 seconds
+  Import took 0.008209 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000555 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.620 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 1.572600 ms (FindLiveObjects: 0.156100 ms CreateObjectMapping: 0.060700 ms MarkObjects: 1.278300 ms  DeleteObjects: 0.076700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 603.148439 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6e520b92ccfc61bcfa21a7bcab8468') in 0.006137 seconds
+  Import took 0.008545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.242446 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(eb64ed9c04f1b8a46b9e2183aef01959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(eb64ed9c04f1b8a46b9e2183aef01959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e459fb31fdcc82a2d7eef0023620d04') in 0.005050 seconds
+  Import took 0.007342 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000557 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.633 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 1.427000 ms (FindLiveObjects: 0.138600 ms CreateObjectMapping: 0.052100 ms MarkObjects: 1.160800 ms  DeleteObjects: 0.074500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 418.202682 seconds.
+  path: Assets/LevelLoader.cs
+  artifactKey: Guid(4cfef7c88248fef4a9289e5d97e2b1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LevelLoader.cs using Guid(4cfef7c88248fef4a9289e5d97e2b1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af557b68b7c6b4a8e8ff648657fde170') in 0.064905 seconds
+  Import took 0.067964 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000578 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.618 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 1.676100 ms (FindLiveObjects: 0.145300 ms CreateObjectMapping: 0.056000 ms MarkObjects: 1.397200 ms  DeleteObjects: 0.076600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.969383 seconds.
+  path: Assets/Scripts/LevelLoader.cs
+  artifactKey: Guid(d90b69ada23bc744cb2f86d227b9cd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelLoader.cs using Guid(d90b69ada23bc744cb2f86d227b9cd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d03f6216baf4ad932fef50555c693f') in 0.003122 seconds
+  Import took 0.005489 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000594 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.611 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 1.735900 ms (FindLiveObjects: 0.153600 ms CreateObjectMapping: 0.046700 ms MarkObjects: 1.459400 ms  DeleteObjects: 0.075400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000504 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.612 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 1.517900 ms (FindLiveObjects: 0.124700 ms CreateObjectMapping: 0.045300 ms MarkObjects: 1.275800 ms  DeleteObjects: 0.071400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000629 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.664 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2304.
+Total: 1.498200 ms (FindLiveObjects: 0.133600 ms CreateObjectMapping: 0.049600 ms MarkObjects: 1.241700 ms  DeleteObjects: 0.072700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 162.538711 seconds.
+  path: Assets/Scenes/Start Screen.unity
+  artifactKey: Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start Screen.unity using Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ca4bbd08cad56608e7bfdf5a034d61') in 0.008003 seconds
+  Import took 0.010790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.669074 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(c16b218c028f4644a8b74d0904699224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(c16b218c028f4644a8b74d0904699224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38af71236f8480df9c3355418c78a5f2') in 0.005449 seconds
+  Import took 0.007704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.120671 seconds.
+  path: Assets/Scenes/Splash Screen 1.unity
+  artifactKey: Guid(9679343f2559102448eaa011c47059de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Splash Screen 1.unity using Guid(9679343f2559102448eaa011c47059de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a75d550a1111cbe49b1d614e82c973a') in 0.005539 seconds
+  Import took 0.007792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.356678 seconds.
+  path: Assets/Scenes/Start Screen.unity
+  artifactKey: Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start Screen.unity using Guid(d89c9f514908abf4692d236c86500421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570ea393f8de96aa6c205f9a9c29bde1') in 0.001291 seconds
+  Import took 0.003817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.551401 seconds.
+  path: Assets/Prefabs/LevelLoader.prefab
+  artifactKey: Guid(7b4085a4dc5cc8d4d9646d0ef2eb9c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LevelLoader.prefab using Guid(7b4085a4dc5cc8d4d9646d0ef2eb9c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36216c169a63bfbc590814103079d815') in 0.013408 seconds
+  Import took 0.015730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002686 seconds.
+  path: Assets/Prefabs/LevelLoader.prefab
+  artifactKey: Guid(7b4085a4dc5cc8d4d9646d0ef2eb9c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LevelLoader.prefab using Guid(7b4085a4dc5cc8d4d9646d0ef2eb9c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36216c169a63bfbc590814103079d815') in 0.001940 seconds
+  Import took 0.004205 seconds .
+
