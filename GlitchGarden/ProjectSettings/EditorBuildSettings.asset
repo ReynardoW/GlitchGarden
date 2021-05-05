@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Splash Screen 1.unity
     guid: 9679343f2559102448eaa011c47059de
   - enabled: 1
-    path: Assets/Scenes/Start Screen.unity
+    path: Assets/Scenes/Level 1.unity
     guid: d89c9f514908abf4692d236c86500421
   m_configObjects: {}
