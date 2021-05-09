@@ -6,21 +6,22 @@ public class Shooter : MonoBehaviour
 {
     [SerializeField] GameObject projectile, gun;
     AttackerSpawner myLaneSpawner;
-
+    Animator animator;
     
     private void Start()
     {
         SetLaneSpawner();
+        animator = GetComponent<Animator>();
     }
     void Update()
     {
         if(IsAttackerInLane())
         {
-            Debug.Log("Pew Pew");
+            animator.SetBool("isAttacking", true);
         }
         else
         {
-            Debug.Log("NO SHOOT");
+            animator.SetBool("isAttacking", false);
         }
     }
     public void Fire()
@@ -32,8 +33,8 @@ public class Shooter : MonoBehaviour
         AttackerSpawner[] attackerSpawners = FindObjectsOfType<AttackerSpawner>();
         foreach (AttackerSpawner spawner in attackerSpawners)
         {
-            bool IsCloseEnough = (Mathf.Abs(spawner.transform.position.y - gun.transform.transform.position.y) <= Mathf.Epsilon);
-            if(IsCloseEnough)
+            bool IsCloseEnough = (Mathf.Abs(spawner.transform.position.y - Mathf.RoundToInt(gun.transform.transform.position.y)) <= Mathf.Epsilon);
+            if (IsCloseEnough)
             {
                 myLaneSpawner = spawner;
             }
@@ -41,7 +42,7 @@ public class Shooter : MonoBehaviour
     }
     private bool IsAttackerInLane()
     {
-        if(myLaneSpawner.transform.childCount <= 0)
+        if (myLaneSpawner.transform.childCount <= 0)
         {
             return false;
         }
