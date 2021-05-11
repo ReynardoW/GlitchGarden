@@ -16,22 +16,32 @@ public class LevelLoader : MonoBehaviour
             StartCoroutine(WaitForTime());
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     IEnumerator WaitForTime()
     {
         yield return new WaitForSeconds(timeToWait);
         LoadNextScene();
     }
-
+    public void RestartScene()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(currentSceneIndex); 
+    }
+    public void LoadMainMenu()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene("Start Screen");
+    }
     public void LoadNextScene()
     {
         SceneManager.LoadScene(currentSceneIndex + 1);
+    }
+    public void LoadDeathScene()
+    {
+        SceneManager.LoadScene("LoseScene");
+    }
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }
 
