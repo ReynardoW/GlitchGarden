@@ -581,6 +581,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 875927737546593925, guid: 30c6bf260c8f489459f7ef9d2896d787, type: 3}
+      propertyPath: m_Text
+      value: 999
+      objectReference: {fileID: 0}
+    - target: {fileID: 875927737546593925, guid: 30c6bf260c8f489459f7ef9d2896d787, type: 3}
       propertyPath: m_FontData.m_MinSize
       value: 0
       objectReference: {fileID: 0}
@@ -645,6 +649,10 @@ PrefabInstance:
       value: Trophy Cost
       objectReference: {fileID: 0}
     - target: {fileID: 8383951274608441293, guid: 30c6bf260c8f489459f7ef9d2896d787, type: 3}
+      propertyPath: m_Text
+      value: 999
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383951274608441293, guid: 30c6bf260c8f489459f7ef9d2896d787, type: 3}
       propertyPath: m_FontData.m_MinSize
       value: 2
       objectReference: {fileID: 0}
@@ -653,8 +661,16 @@ PrefabInstance:
       value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 8631930645705305397, guid: 30c6bf260c8f489459f7ef9d2896d787, type: 3}
+      propertyPath: m_Text
+      value: 999
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631930645705305397, guid: 30c6bf260c8f489459f7ef9d2896d787, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712875288279479207, guid: 30c6bf260c8f489459f7ef9d2896d787, type: 3}
+      propertyPath: m_Text
+      value: 999
       objectReference: {fileID: 0}
     - target: {fileID: 8712875288279479207, guid: 30c6bf260c8f489459f7ef9d2896d787, type: 3}
       propertyPath: m_FontData.m_MinSize
