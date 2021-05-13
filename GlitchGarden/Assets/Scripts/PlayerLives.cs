@@ -5,12 +5,14 @@ using UnityEngine.UI;
 
 public class PlayerLives : MonoBehaviour
 {
-    [SerializeField] int playerLives = 5;
+    [SerializeField] float baseLives = 3;
     Text playerLivesText;
+    float playerLives;
 
     // Start is called before the first frame update
     void Start()
     {
+        playerLives = baseLives - PlayerPrefsController.GetDifficulty();
         playerLivesText = GetComponent<Text>();
         UpdateDisplay();
     }

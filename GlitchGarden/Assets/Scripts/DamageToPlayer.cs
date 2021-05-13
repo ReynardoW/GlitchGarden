@@ -7,5 +7,6 @@ public class DamageToPlayer : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D otherCollider)
     {
         FindObjectOfType<PlayerLives>().ReduceLives();
+        Destroy(otherCollider.gameObject);
     }
 }
